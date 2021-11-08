@@ -6,3 +6,4 @@ A marketing service
 
 ## Sponsors
 - Cheese
+- Yotta
