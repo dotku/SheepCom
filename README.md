@@ -5,5 +5,5 @@ A marketing service
 - NYEE
 
 ## Sponsors
-- Cheese
+- [Cheese](https://link.earncheese.com/valF/9123ede8)
 - Yotta
