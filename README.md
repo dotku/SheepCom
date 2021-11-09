@@ -2,7 +2,7 @@
 A marketing service 
 
 ## Partners
-- NYEE
+- (leave your comment on github)
 
 ## Sponsors
 - [Cheese](https://link.earncheese.com/valF/9123ede8)
